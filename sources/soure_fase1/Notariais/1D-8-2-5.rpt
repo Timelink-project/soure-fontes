@@ -1,329 +1,0 @@
-ClioInput - version 2019.A1 - build 507 15/07/2019 21:58 
-27-8-2019 19-14
-
-Processing data file 1D-8-2-5.cli
--------------------------------------------
-Generic Act translation module with geoentities (XML).
-     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
-1: 
-ERROR: 1D-8-2-5.cli line 1 *** Current group fonte cannot be linked with previous group ()
-Near lines: 1 Near line: 2 fonte$n2.5
-
-ERROR: 1D-8-2-5.cli line 1 ***fonte group not stored.
-Near lines: 1 Near line: 2 fonte$n2.5
-
-ERROR: 1D-8-2-5.cli line 1 ** Failure. Could not process group fonte
-Near lines: 1 Near line: 2 fonte$n2.5
-2: fonte$n2.5
-ERROR: 1D-8-2-5.cli line 2 ** Failure: undefined element. n2.5
-
-Near lines: 2 fonte$n2.5Near line: 3 	/cota=1D-8-2-5
-
-ERROR: 1D-8-2-5.cli line 2 **  unknown element: cota.
-Near lines: 2 fonte$n2.5Near line: 3 	/cota=1D-8-2-5
-3: 	/cota=1D-8-2-5
-ERROR: 1D-8-2-5.cli line 3 **  unknown element: arquivo.
-Near lines: 3 	/cota=1D-8-2-5Near line: 4 	/arquivo=AUC
-4: 	/arquivo=AUC
-ERROR: 1D-8-2-5.cli line 4 **  unknown element: tipo.
-Near lines: 4 	/arquivo=AUCNear line: 5 	/tipo=livro de notas
-5: 	/tipo=livro de notas
-ERROR: 1D-8-2-5.cli line 5 **  unknown element: notario.
-Near lines: 5 	/tipo=livro de notasNear line: 6 	/notario=
-6: 	/notario=
-ERROR: 1D-8-2-5.cli line 6 **  unknown element: inicio.
-Near lines: 6 	/notario=Near line: 7 	/inicio=
-7: 	/inicio=
-ERROR: 1D-8-2-5.cli line 7 **  unknown element: fim.
-Near lines: 7 	/inicio=Near line: 8 	/fim=
-8: 	/fim=
-ERROR: 1D-8-2-5.cli line 8 **  unknown element: obs.
-Near lines: 8 	/fim=Near line: 9 	/obs=legivel / o livro nao tem os primeiros 23 folios /  a 
-
-ERROR: 1D-8-2-5.cli line 8 ** Failure: undefined element.  o livro nao tem os primeiros 23 folios
-
-Near lines: 8 	/fim=Near line: 9 	/obs=legivel / o livro nao tem os primeiros 23 folios /  a 
-9: 	/obs=legivel / o livro nao tem os primeiros 23 folios /  a 
-ERROR: 1D-8-2-5.cli line 9 ** Failure: undefined element.  a contagem a partir do um ? provisoria
-
-Near lines: 9 	/obs=legivel / o livro nao tem os primeiros 23 folios /  a Near line: 10 contagem a partir do um ? provisoria / o local passa a registar a 
-10: contagem a partir do um ? provisoria / o local passa a registar a 
-ERROR: 1D-8-2-5.cli line 10 ** Failure: undefined element.  o local passa a registar a origem dos contratantes
-
-Near lines: 10 contagem a partir do um ? provisoria / o local passa a registar a Near line: 11 origem dos contratantes / tenho levantado at? ao f�lio 104-104v - 
-11: origem dos contratantes / tenho levantado at? ao f�lio 104-104v - 
-ERROR: 1D-8-2-5.cli line 11 ** Failure: undefined element.  tenho levantado at? ao f�lio 104-104v - ver no caderno azul
-
-Near lines: 11 origem dos contratantes / tenho levantado at? ao f�lio 104-104v - Near line: 12 ver no caderno azul / faltam cerca de 30 folios 
-12: ver no caderno azul / faltam cerca de 30 folios 13: 14: 
-ERROR: 1D-8-2-5.cli line 14 *** Current group escritura cannot be linked with previous group ()
-Near lines: 14 Near line: 15 escritura$n.2.5.1
-
-ERROR: 1D-8-2-5.cli line 14 ***escritura group not stored.
-Near lines: 14 Near line: 15 escritura$n.2.5.1
-
-ERROR: 1D-8-2-5.cli line 14 ** Failure. Could not process group escritura
-Near lines: 14 Near line: 15 escritura$n.2.5.1
-15: escritura$n.2.5.1
-ERROR: 1D-8-2-5.cli line 15 ** Failure: undefined element.  faltam cerca de 30 folios n.2.5.1
-
-Near lines: 15 escritura$n.2.5.1Near line: 16 	/data=
-
-ERROR: 1D-8-2-5.cli line 15 **  unknown element: data.
-Near lines: 15 escritura$n.2.5.1Near line: 16 	/data=
-16: 	/data=
-ERROR: 1D-8-2-5.cli line 16 **  unknown element: fol.
-Near lines: 16 	/data=Near line: 17 	/fol=(1)
-17: 	/fol=(1)
-ERROR: 1D-8-2-5.cli line 17 **  unknown element: tipo.
-Near lines: 17 	/fol=(1)Near line: 18   	/tipo=
-18:   	/tipo=
-ERROR: 1D-8-2-5.cli line 18 **  unknown element: local.
-Near lines: 18   	/tipo=Near line: 19   	/local=
-19:   	/local=
-ERROR: 1D-8-2-5.cli line 19 **  unknown element: obs.
-Near lines: 19   	/local=Near line: 20 	/obs=truncado
-20: 	/obs=truncado21:  22: 
-ERROR: 1D-8-2-5.cli line 22 *** Current group escritura cannot be linked with previous group ()
-Near lines: 22 Near line: 23 escritura$n.2.5.2
-
-ERROR: 1D-8-2-5.cli line 22 ***escritura group not stored.
-Near lines: 22 Near line: 23 escritura$n.2.5.2
-
-ERROR: 1D-8-2-5.cli line 22 ** Failure. Could not process group escritura
-Near lines: 22 Near line: 23 escritura$n.2.5.2
-23: escritura$n.2.5.2
-ERROR: 1D-8-2-5.cli line 23 **  unknown element: data.
-Near lines: 23 escritura$n.2.5.2Near line: 24 	/data=
-24: 	/data=
-ERROR: 1D-8-2-5.cli line 24 **  unknown element: fol.
-Near lines: 24 	/data=Near line: 25 	/fol=(1v)
-25: 	/fol=(1v)
-ERROR: 1D-8-2-5.cli line 25 **  unknown element: tipo.
-Near lines: 25 	/fol=(1v)Near line: 26 	/tipo=
-26: 	/tipo=
-ERROR: 1D-8-2-5.cli line 26 **  unknown element: local.
-Near lines: 26 	/tipo=Near line: 27 	/local=
-27: 	/local=
-ERROR: 1D-8-2-5.cli line 27 **  unknown element: obs.
-Near lines: 27 	/local=Near line: 28 	/obs=truncado
-28: 	/obs=truncado29: 	30: 	
-ERROR: 1D-8-2-5.cli line 30 *** Current group escritura cannot be linked with previous group ()
-Near lines: 30 	Near line: 31 escritura$n.2.5.3
-
-ERROR: 1D-8-2-5.cli line 30 ***escritura group not stored.
-Near lines: 30 	Near line: 31 escritura$n.2.5.3
-
-ERROR: 1D-8-2-5.cli line 30 ** Failure. Could not process group escritura
-Near lines: 30 	Near line: 31 escritura$n.2.5.3
-31: escritura$n.2.5.3
-ERROR: 1D-8-2-5.cli line 31 **  unknown element: data.
-Near lines: 31 escritura$n.2.5.3Near line: 32 	/data=03021700
-32: 	/data=03021700
-ERROR: 1D-8-2-5.cli line 32 **  unknown element: fol.
-Near lines: 32 	/data=03021700Near line: 33 	/fol=(2-2v)
-33: 	/fol=(2-2v)
-ERROR: 1D-8-2-5.cli line 33 **  unknown element: tipo.
-Near lines: 33 	/fol=(2-2v)Near line: 34 	/tipo=juro
-34: 	/tipo=juro
-ERROR: 1D-8-2-5.cli line 34 **  unknown element: local.
-Near lines: 34 	/tipo=juroNear line: 35 	/local=soure
-35: 	/local=soure
-ERROR: 1D-8-2-5.cli line 35 **  unknown element: obs.
-Near lines: 35 	/local=soureNear line: 36 	/obs=local da escritura na quinta de nossa senhora dos anjos 
-36: 	/obs=local da escritura na quinta de nossa senhora dos anjos 37: junto � ega, termo da vila de soure,  de nuno alvares pereira, irmao e 38: procurador do credor / empr?stimo de 100000 reis por tempo de um 39: ano com juro de 6,4%
-ERROR: 1D-8-2-5.cli line 39 *** Current group credor cannot be linked with previous group ()
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 39 ***credor group not stored.
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 39 ** Failure. Could not process group credor
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 39 ** Failure: undefined element.  empr?stimo de 100000 reis por tempo de um ano com juro de 6,4%sebastiao de almeida
-
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 39 **  unknown element: sexo.
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 39 **  unknown element: id.
-Near lines: 39 ano com juro de 6,4%Near line: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-40: credor$sebastiao de almeida/sexo=m/id=2.5.3.p1
-ERROR: 1D-8-2-5.cli line 40 *** Current group ls cannot be linked with previous group ()
-Near lines: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1Near line: 41 	ls$profissao/padre
-
-ERROR: 1D-8-2-5.cli line 40 ***ls group not stored.
-Near lines: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1Near line: 41 	ls$profissao/padre
-
-ERROR: 1D-8-2-5.cli line 40 ** Failure. Could not process group ls
-Near lines: 40 credor$sebastiao de almeida/sexo=m/id=2.5.3.p1Near line: 41 	ls$profissao/padre
-41: 	ls$profissao/padre
-ERROR: 1D-8-2-5.cli line 41 *** Current group ls cannot be linked with previous group ()
-Near lines: 41 	ls$profissao/padreNear line: 42 	ls$cargo/vigario de cacia
-
-ERROR: 1D-8-2-5.cli line 41 ***ls group not stored.
-Near lines: 41 	ls$profissao/padreNear line: 42 	ls$cargo/vigario de cacia
-
-ERROR: 1D-8-2-5.cli line 41 ** Failure. Could not process group ls
-Near lines: 41 	ls$profissao/padreNear line: 42 	ls$cargo/vigario de cacia
-
-ERROR: 1D-8-2-5.cli line 41 ** Failure: undefined element. padrecargo
-
-Near lines: 41 	ls$profissao/padreNear line: 42 	ls$cargo/vigario de cacia
-42: 	ls$cargo/vigario de cacia
-ERROR: 1D-8-2-5.cli line 42 *** Current group procurador cannot be linked with previous group ()
-Near lines: 42 	ls$cargo/vigario de caciaNear line: 43 procurador$nuno alvares pereira/sexo=m
-
-ERROR: 1D-8-2-5.cli line 42 ***procurador group not stored.
-Near lines: 42 	ls$cargo/vigario de caciaNear line: 43 procurador$nuno alvares pereira/sexo=m
-
-ERROR: 1D-8-2-5.cli line 42 ** Failure. Could not process group procurador
-Near lines: 42 	ls$cargo/vigario de caciaNear line: 43 procurador$nuno alvares pereira/sexo=m
-
-ERROR: 1D-8-2-5.cli line 42 ** Failure: undefined element. vigario de cacianuno alvares pereira
-
-Near lines: 42 	ls$cargo/vigario de caciaNear line: 43 procurador$nuno alvares pereira/sexo=m
-
-ERROR: 1D-8-2-5.cli line 42 **  unknown element: sexo.
-Near lines: 42 	ls$cargo/vigario de caciaNear line: 43 procurador$nuno alvares pereira/sexo=m
-43: procurador$nuno alvares pereira/sexo=m
-ERROR: 1D-8-2-5.cli line 43 *** Current group ls cannot be linked with previous group ()
-Near lines: 43 procurador$nuno alvares pereira/sexo=mNear line: 44 	ls$residencia/quinta de nossa senhora dos anjos, termo de 
-
-ERROR: 1D-8-2-5.cli line 43 ***ls group not stored.
-Near lines: 43 procurador$nuno alvares pereira/sexo=mNear line: 44 	ls$residencia/quinta de nossa senhora dos anjos, termo de 
-
-ERROR: 1D-8-2-5.cli line 43 ** Failure. Could not process group ls
-Near lines: 43 procurador$nuno alvares pereira/sexo=mNear line: 44 	ls$residencia/quinta de nossa senhora dos anjos, termo de 
-44: 	ls$residencia/quinta de nossa senhora dos anjos, termo de 45: soure
-ERROR: 1D-8-2-5.cli line 45 *** Current group rel cannot be linked with previous group ()
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 45 ***rel group not stored.
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 45 ** Failure. Could not process group rel
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 45 ** Failure: undefined element. quinta de nossa senhora dos anjos, termo de soureparentesco
-
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 45 ** Failure: undefined element. irmao
-
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-
-ERROR: 1D-8-2-5.cli line 45 ** Failure: undefined element. sebastiao de almeida
-
-Near lines: 45 soureNear line: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-46: 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1
-ERROR: 1D-8-2-5.cli line 46 *** Current group devedor cannot be linked with previous group ()
-Near lines: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1Near line: 47 devedor$domingos lopes/sexo=m
-
-ERROR: 1D-8-2-5.cli line 46 ***devedor group not stored.
-Near lines: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1Near line: 47 devedor$domingos lopes/sexo=m
-
-ERROR: 1D-8-2-5.cli line 46 ** Failure. Could not process group devedor
-Near lines: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1Near line: 47 devedor$domingos lopes/sexo=m
-
-ERROR: 1D-8-2-5.cli line 46 ** Failure: undefined element. 2.5.3.p1domingos lopes
-
-Near lines: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1Near line: 47 devedor$domingos lopes/sexo=m
-
-ERROR: 1D-8-2-5.cli line 46 **  unknown element: sexo.
-Near lines: 46 	rel$parentesco/irmao/sebastiao de almeida/2.5.3.p1Near line: 47 devedor$domingos lopes/sexo=m
-47: devedor$domingos lopes/sexo=m
-ERROR: 1D-8-2-5.cli line 47 *** Current group ls cannot be linked with previous group ()
-Near lines: 47 devedor$domingos lopes/sexo=mNear line: 48 	ls$ec/c
-
-ERROR: 1D-8-2-5.cli line 47 ***ls group not stored.
-Near lines: 47 devedor$domingos lopes/sexo=mNear line: 48 	ls$ec/c
-
-ERROR: 1D-8-2-5.cli line 47 ** Failure. Could not process group ls
-Near lines: 47 devedor$domingos lopes/sexo=mNear line: 48 	ls$ec/c
-48: 	ls$ec/c
-ERROR: 1D-8-2-5.cli line 48 *** Current group ls cannot be linked with previous group ()
-Near lines: 48 	ls$ec/cNear line: 49 	ls$residencia/casa velha, termo de soure
-
-ERROR: 1D-8-2-5.cli line 48 ***ls group not stored.
-Near lines: 48 	ls$ec/cNear line: 49 	ls$residencia/casa velha, termo de soure
-
-ERROR: 1D-8-2-5.cli line 48 ** Failure. Could not process group ls
-Near lines: 48 	ls$ec/cNear line: 49 	ls$residencia/casa velha, termo de soure
-
-ERROR: 1D-8-2-5.cli line 48 ** Failure: undefined element. cresidencia
-
-Near lines: 48 	ls$ec/cNear line: 49 	ls$residencia/casa velha, termo de soure
-49: 	ls$residencia/casa velha, termo de soure
-ERROR: 1D-8-2-5.cli line 49 *** Current group mer cannot be linked with previous group ()
-Near lines: 49 	ls$residencia/casa velha, termo de soureNear line: 50 mer$maria pereira/sexo=f
-
-ERROR: 1D-8-2-5.cli line 49 ***mer group not stored.
-Near lines: 49 	ls$residencia/casa velha, termo de soureNear line: 50 mer$maria pereira/sexo=f
-
-ERROR: 1D-8-2-5.cli line 49 ** Failure. Could not process group mer
-Near lines: 49 	ls$residencia/casa velha, termo de soureNear line: 50 mer$maria pereira/sexo=f
-
-ERROR: 1D-8-2-5.cli line 49 ** Failure: undefined element. casa velha, termo de souremaria pereira
-
-Near lines: 49 	ls$residencia/casa velha, termo de soureNear line: 50 mer$maria pereira/sexo=f
-
-ERROR: 1D-8-2-5.cli line 49 **  unknown element: sexo.
-Near lines: 49 	ls$residencia/casa velha, termo de soureNear line: 50 mer$maria pereira/sexo=f
-50: mer$maria pereira/sexo=f
-ERROR: 1D-8-2-5.cli line 50 *** Current group test cannot be linked with previous group ()
-Near lines: 50 mer$maria pereira/sexo=fNear line: 51 test$sebastiao goncalves/sexo=m
-
-ERROR: 1D-8-2-5.cli line 50 ***test group not stored.
-Near lines: 50 mer$maria pereira/sexo=fNear line: 51 test$sebastiao goncalves/sexo=m
-
-ERROR: 1D-8-2-5.cli line 50 ** Failure. Could not process group test
-Near lines: 50 mer$maria pereira/sexo=fNear line: 51 test$sebastiao goncalves/sexo=m
-
-ERROR: 1D-8-2-5.cli line 50 **  unknown element: sexo.
-Near lines: 50 mer$maria pereira/sexo=fNear line: 51 test$sebastiao goncalves/sexo=m
-51: test$sebastiao goncalves/sexo=m
-ERROR: 1D-8-2-5.cli line 51 *** Current group ls cannot be linked with previous group ()
-Near lines: 51 test$sebastiao goncalves/sexo=mNear line: 52 	ls$residencia/soure
-
-ERROR: 1D-8-2-5.cli line 51 ***ls group not stored.
-Near lines: 51 test$sebastiao goncalves/sexo=mNear line: 52 	ls$residencia/soure
-
-ERROR: 1D-8-2-5.cli line 51 ** Failure. Could not process group ls
-Near lines: 51 test$sebastiao goncalves/sexo=mNear line: 52 	ls$residencia/soure
-52: 	ls$residencia/soure
-ERROR: 1D-8-2-5.cli line 52 *** Current group ls cannot be linked with previous group ()
-Near lines: 52 	ls$residencia/soureNear line: 53 	ls$assinatura/s
-
-ERROR: 1D-8-2-5.cli line 52 ***ls group not stored.
-Near lines: 52 	ls$residencia/soureNear line: 53 	ls$assinatura/s
-
-ERROR: 1D-8-2-5.cli line 52 ** Failure. Could not process group ls
-Near lines: 52 	ls$residencia/soureNear line: 53 	ls$assinatura/s
-
-ERROR: 1D-8-2-5.cli line 52 ** Failure: undefined element. soureassinatura
-
-Near lines: 52 	ls$residencia/soureNear line: 53 	ls$assinatura/s
-53: 	ls$assinatura/s
-ERROR: 1D-8-2-5.cli line 53 *** Current group test cannot be linked with previous group ()
-Near lines: 53 	ls$assinatura/sNear line: 54 test$domingos-cardoso/sexo=m
-
-ERROR: 1D-8-2-5.cli line 53 ***test group not stored.
-Near lines: 53 	ls$assinatura/sNear line: 54 test$domingos-cardoso/sexo=m
-
-ERROR: 1D-8-2-5.cli line 53 ** Failure. Could not process group test
-Near lines: 53 	ls$assinatura/sNear line: 54 test$domingos-cardoso/sexo=m
-
-ERROR: 1D-8-2-5.cli line 53 ** Failure: undefined element. sdomingos-cardoso
-
-Near lines: 53 	ls$assinatura/sNear line: 54 test$domingos-cardoso/sexo=m
-
-ERROR: 1D-8-2-5.cli line 53 **  unknown element: sexo.
-Near lines: 53 	ls$assinatura/sNear line: 54 test$domingos-cardoso/sexo=m
-54: test$domingos-cardoso/sexo=m*** ERROR: MAXIMUM NUMBER OF ERRORS REACHED. TRANSLATION ABORTED.
-*** End of File
-100  errors. 
-0  warnings.
-Translation finished.

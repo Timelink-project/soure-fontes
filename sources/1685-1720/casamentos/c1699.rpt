@@ -1,0 +1,45 @@
+ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
+9-4-2020 16-53
+
+Processing data file c1699.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 6
+Obs: 
+** Processing source fonte$casamentos 1699
+6: cas$c1699-122
+32: cas$c1699-123
+56: cas$c1699-124
+81: cas$c1699-125
+112: cas$c1699-126
+139: cas$c1699-127
+176: cas$c1699-128
+206: cas$c1699-129
+241: cas$c1699-130
+270: cas$c1699-131
+301: cas$c1699-132
+331: cas$c1699-133
+360: cas$c1699-134
+387: cas$c1699-135
+412: cas$c1699-136
+437: cas$c1699-137
+465: cas$c1699-138
+489: cas$c1699-139
+521: cas$c1699-140
+548: cas$c1699-141
+*** End of File
+** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1699.cli
+** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1699.org
+** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1699.old
+** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1699.ids
+0  errors. 
+0  warnings.
+Translation finished.

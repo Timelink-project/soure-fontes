@@ -1,0 +1,49 @@
+ClioInput - version @@VERSION@@ - build @@BUILD@@ @@DATE@@
+9-4-2020 16-45
+
+Processing data file c1719.cli
+-------------------------------------------
+Generic Act translation module with geoentities (XML).
+     Joaquim Ramos de Carvalho (joaquim@uc.pt) 
+** New document: kleio
+=========================
+kleio translation started
+=========================
+Structure: gacto.str
+Prefix: 
+Autorel: 
+Translation count: 4
+Obs: 
+** Processing source fonte$casamentos 1719
+6: cas$c1719.1
+36: cas$c1719.2
+65: cas$c1719.3
+100: cas$c1719.4
+130: cas$c1719.5
+158: cas$c1719.6
+194: cas$c1719.7
+226: cas$c1719.8
+259: cas$c1719.9
+290: cas$c1719.10
+326: cas$c1719.11
+357: cas$c1719.12
+385: cas$c1719.13
+414: cas$c1719.14
+465: cas$c1719.15
+499: cas$c1719.16
+532: cas$c1719.17
+579: cas$c1719.18
+606: cas$c1719.19
+636: cas$c1719.20
+666: cas$c1719.21
+702: cas$c1719.22
+740: cas$c1719.23
+773: cas$c1719.24
+*** End of File
+** Processed file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1719.cli
+** Original file- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1719.org
+** Previous version- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1719.old
+** Temp file with ids- /Users/jrc/mhk-home/sources/soure-fontes/sources/soure_fase1/casamentos/c1719.ids
+0  errors. 
+0  warnings.
+Translation finished.
